@@ -1,0 +1,48 @@
+@charset "UTF-8";
+body{
+	background-color:aliceblue;
+	font-family:Cambria, Hoefler Text, Liberation Serif, Times, Times New Roman, serif;
+	color:;
+}
+h1{
+	background-color:#1626A5;
+	color:white;
+	font-style:italic;
+	text-align:center;
+}
+.notebox{
+	clear:both; background-color:#FFFFCC;
+	border:#97bfff 1px solid; margin:1em ;
+}
+.notebox h2{
+	font-size:1em; margin:0px; font-style:normal;
+	padding:0.2em 0.2em 0.2em 0.2em;
+	background-color: #97bfff;
+	color:brown;
+}
+.notebox p{
+	font-size:0.8em; margin:1px;
+	pading:2em;
+	color:darkred;
+}
+h2{ color:dimgrey;
+	border:1px solid lightblue;
+	padding:10px;
+}
+h3{
+	background-color: cornflowerblue;
+	text-align:center;
+	
+}
+p{
+	background-color:none;
+	color:gold;
+	text-align: center;
+}
+footer{
+	color:blue;
+	text-align: center;
+}
+p:hover, h1:hover, a:hover{
+	background-color: lightgray;
+}
