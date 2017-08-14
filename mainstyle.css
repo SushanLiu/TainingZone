@@ -46,3 +46,6 @@ footer{
 p:hover, h1:hover, a:hover{
 	background-color: lightgray;
 }
+body{
+	background-color:lightgrey;
+}
